@@ -25,12 +25,4 @@ Must live at:
 
 ```
 ~/discovery_piscine/final_project/ex00/tic_tac_toe.py
-```
-
-## If you're picking this project back up
-
-Read `PLAN.md` first — it has the current status, what's cut and why, and
-how the fuse-bar timing works. `QUEUE.md` has the ordered list of what's
-left. Everything else in this folder (`game.py`-era references,
-`reference/`, the old multi-person git workflow) is history from a
-scrapped team plan, not current instructions.
+``
